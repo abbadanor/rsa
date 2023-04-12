@@ -1,0 +1,14 @@
+# Build files
+dist
+
+# Types
+!**/declarations.d.ts
+
+# VS Code
+.vscode
+!.vscode/tasks.js
+
+# DS Store
+.DS_Store
+
+/node_modules

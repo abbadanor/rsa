@@ -1,0 +1,12 @@
+/node_modules
+
+**/dist/**
+**/build/**
+
+**/*.d.ts
+/**/*.js
+
+package.json
+tsconfig.json
+.eslintrc
+README.md
